@@ -1,25 +1,28 @@
 # 👋 Hey, I'm Atharv  
 
-I'm a Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning**, focused on building practical, real-world AI systems.  
+I'm a Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning**, with a strong inclination toward designing and engineering **intelligent, scalable, and autonomous systems** that operate in real-world environments.  
 
 ## 🚀 What I'm Into  
-- 🧠 Agentic AI systems that can **reason and act**
-- 🌍 Using AI for **geopolitics and research**
-- ⚙️ Working with **LLMs and modern AI frameworks**
+- 🧠 Architecting **agentic AI systems** capable of reasoning, planning, and execution  
+- 🌍 Leveraging AI for **geopolitical analysis and research workflows**  
+- ⚙️ Building with **LLMs and modern AI ecosystems** to create impactful applications  
 
-## 🛠️ Tech Stack  
-- LangChain  
-- LangGraph  
-- LangSmith  
-- MCP  
+## 🛠️ Tech Stack & Expertise  
+- **Machine Learning & Statistical Modeling**  
+- **Deep Learning & Neural Architectures**  
+- **Generative AI & Large Language Models (LLMs)**  
+- **Agentic AI Systems & Autonomous Workflows**  
+- **Reinforcement Learning & Decision-Making Systems**  
+- **AI System Design & Scalable Architecture**  
+- **LangChain Ecosystem (LangChain, LangGraph, LangSmith, MCP)**  
 
-## 🎯 Current Focus   
-- Building **AI-driven applications**  
-- Exploring scalable and intelligent system design  
+## 🎯 Current Focus  
+- Preparing for **GATE (Data Science & AI)**  
+- Engineering **AI-driven, production-ready systems**  
+- Exploring **scalable AI architecture and intelligent system design patterns**  
 
 ## 💡 Philosophy  
-I believe in **learning by building** — and breaking things just enough to actually understand them.
-
+I believe in **learning by building** — and dismantling systems just enough to truly understand their inner workings.  
 ---
 <!--
 **vaniatharv/vaniatharv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
