@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hey, I'm Atharv  
 
 I'm a Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning**, focused on building practical, real-world AI systems.  
